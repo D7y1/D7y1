@@ -10,7 +10,7 @@
 <p align="center">
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5">
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL">
 </p>
