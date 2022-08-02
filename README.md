@@ -10,7 +10,7 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D7y1&show_icons=true&theme=algolia">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D7y1&show_icons=true&theme=monokai">
 </p>
 
 <h2 align="center">Discord</h2>
