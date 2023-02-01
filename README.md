@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D7y</h1>
 <h3 align="center">A passionate FullStack developer from Saudi Arabia</h3>
 
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=D7y1.D7y1?right_color=b40e1e" alt="d7y1" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=D7y1.D7y1" alt="d7y1" /> </p>
 
 - 🌱 I’m currently learning **CS50**
 
