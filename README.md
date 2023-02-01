@@ -21,7 +21,7 @@
 <a href="https://twitter.com/d7y01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d7y01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/d7y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d7y" height="30" width="40" /></a>
 <a href="https://instagram.com/kj6z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kj6z" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/d7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d7i" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7eBnj2Wq9vNx4nDTHVVShw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d7i" height="30" width="40" /></a>
 <a href="https://discord.gg/D7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="D7" height="30" width="40" /></a>
 </p>
 
