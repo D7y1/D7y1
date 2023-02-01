@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=D7y1.D7y1&right_color=darkred" alt="d7y1" /> </p>
 
-- 🌱 I’m currently learning **CS50**
+- 🌱 I’m currently learning **CS50 Course**
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/D7](https://discord.gg/D7)
 
