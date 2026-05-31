@@ -49,14 +49,14 @@ I build production systems and digital products that solve real operational prob
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d7y1&show_icons=true&theme=dark&title_color=F20548&icon_color=F20548&text_color=c0b9b9&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d7y1&theme=dark&ring=F20548&fire=F20548&currStreakLabel=F20548&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d7y1&layout=compact&theme=dark&title_color=F20548&text_color=c0b9b9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
